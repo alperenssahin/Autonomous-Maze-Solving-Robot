@@ -15,7 +15,7 @@ void setup()
     pinMode(YON1, OUTPUT);   
     pinMode(YON2, OUTPUT); 
 } 
-
+//bu kod bay mardinli serseri tarafından hacklendi
 void loop() 
 { 
   int value;
