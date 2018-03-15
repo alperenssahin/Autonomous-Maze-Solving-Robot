@@ -1,2 +1,2 @@
-# Autonomous-Maze-Solving-Robot-
+# Autonomous-Maze-Solving-Robot
 GSU Robotics Club 
