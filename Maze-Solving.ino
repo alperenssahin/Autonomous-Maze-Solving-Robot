@@ -1,19 +1,3 @@
-// # Editor     : Lauren from DFRobot
-// # Date       : 17.02.2012
-
-// # Product name: L298P Motor Shield
-// # Product SKU : DRI0009
-// # Version     : 1.0
-
-// # Description:
-// # The sketch for using the L298N motor shield
-
-// # Connection:
-// #		Directly connect the Motor shield to the Arduino controller 
-// #
-// #
-
-
 #define PWM1  6
 #define YON1  7
 #define PWM2  5                         
